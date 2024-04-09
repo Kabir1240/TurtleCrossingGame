@@ -28,7 +28,6 @@ while True:
 
     # generate random cars and move them
     car_manager.generate_car()
-    car_manager.generate_car()
     car_manager.move_cars()
 
     # level complete
